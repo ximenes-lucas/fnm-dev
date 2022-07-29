@@ -1,7 +1,7 @@
 ## 👋 Hello! Welcome to my Github profile.
 ### My name is Felipe and my nickname is fnm-dev!
 ##### Currently, I'm learning Java and Spring Boot for web services.
-<br><div align="center">
+<br><div style="display: inline_block" align="center">
   <a href="https://github.com/fnm-dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fnm-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fnm-dev&layout=compact&langs_count=7&theme=radical"/>
